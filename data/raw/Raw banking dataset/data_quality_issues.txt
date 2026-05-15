@@ -1,0 +1,20 @@
+
+This dataset intentionally contains:
+- Missing values
+- Duplicates
+- Invalid relationships
+- Inconsistent formatting
+- Negative balances and amounts
+- Outliers
+- Mixed category formatting
+- Extra spaces
+- Invalid foreign keys
+
+Recommended tasks:
+- Deduplicate records
+- Handle missing values
+- Standardize text fields
+- Validate IDs
+- Remove invalid financial values
+- Detect anomalies
+- Create validation checks
