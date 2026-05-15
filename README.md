@@ -60,7 +60,5 @@ banking-data-engineering-project/
 
 ## Author
 
-Lynn Kamau
-
 Lynn Njeri
 
