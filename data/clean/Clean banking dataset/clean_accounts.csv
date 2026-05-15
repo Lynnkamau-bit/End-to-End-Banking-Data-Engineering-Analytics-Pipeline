@@ -1,0 +1,701 @@
+account_id,customer_id,account_type,branch,opening_balance,account_status,open_date
+1,158,Savings, Kisumu,484146.63,,2020-06-22
+2,352,,Nairobi Cbd,166575.93,Active,2025-08-11
+3,376,Savings,Mombasa,510156.57,Active,2024-07-11
+4,302,Current,,887584.3,,2021-08-26
+5,161,,Mombasa,815243.52,Dormant,2025-07-17
+6,518,Savings, Kisumu,178321.97,Active,2023-04-12
+7,362,,Nairobi Cbd,690197.85,Active,2022-04-22
+8,3,Current,,-1067.36,Active,2023-03-07
+9,408,Savings,,10518.27,Active,2025-04-08
+10,202,Savings, Kisumu,767811.11,Active,2021-04-16
+11,545,,Westlands,572340.06,,2025-05-13
+12,125,Savings,Westlands,516015.96,Active,2025-09-18
+13,30,Savings,Nairobi Cbd,166388.47,,2026-01-28
+14,479,, Kisumu,805633.07,Active,2023-12-25
+15,13,,Mombasa,139646.78,Dormant,2024-03-02
+16,363,Current,Westlands,28054.85,Active,2021-06-02
+17,65,Current,Westlands,447087.6,,2019-06-01
+18,21,Savings,Westlands,889993.4,Active,2026-01-26
+19,451,Savings,,234484.03,Dormant,2024-10-18
+20,46,Savings,,853989.11,Active,2022-03-16
+21,7,Fixed Deposit,Mombasa,415468.31,Active,2023-12-02
+22,508,Savings,Westlands,675668.12,Dormant,2026-02-01
+23,424,Current, Kisumu,874684.31,,2024-11-29
+24,23,Savings,Nairobi Cbd,169334.93,Active,2020-11-18
+25,389,Savings,Nairobi Cbd,971405.18,Active,2019-08-03
+26,406,,Mombasa,110460.78,,2019-05-20
+27,344,Fixed Deposit,Nairobi Cbd,961034.75,,2024-01-02
+28,360,,Westlands,384300.41,,2025-03-21
+29,291,Current,Westlands,432754.32,Active,2019-07-12
+30,26,Current,Westlands,238008.71,Dormant,2020-07-18
+31,95,Savings,Mombasa,542590.56,Dormant,2026-04-12
+32,454,Fixed Deposit,Westlands,155018.11,Active,2019-12-14
+33,222,Fixed Deposit, Kisumu,627490.46,Dormant,2023-09-14
+34,305,Fixed Deposit,,200467.72,,2020-04-15
+35,135,Current,,899115.44,Active,2026-04-28
+36,548,Savings, Kisumu,606244.64,Dormant,2022-09-17
+37,129,Savings,,86926.83,Active,2020-10-27
+38,395,Savings,,140795.17,Active,2025-11-16
+39,400,Savings,Westlands,775018.56,Dormant,2024-06-08
+40,329,Savings,Nairobi Cbd,63421.21,Active,2024-12-24
+41,513,Current,Westlands,61240.55,Active,2020-04-10
+42,91,Savings,Mombasa,121763.24,,2024-04-29
+43,290,Current, Kisumu,843585.07,,2022-03-29
+44,136,Current,Westlands,24721.94,Active,2025-11-12
+45,423,Savings, Kisumu,244663.1,,2026-03-27
+46,361,Savings,Westlands,287933.86,Active,2024-08-19
+47,225,Savings, Kisumu,35198.53,Dormant,2025-03-14
+48,442,Savings,Mombasa,151970.11,Active,2025-12-16
+49,319,Savings,,838662.7,,2021-12-02
+50,534,Current, Kisumu,668484.38,Active,2023-04-23
+51,1,Savings,Mombasa,900576.14,Active,2020-11-16
+52,251,Savings,Nairobi Cbd,790394.78,Dormant,2022-02-04
+53,354,Savings, Kisumu,693150.45,,2025-11-23
+54,227,Current,,85383.25,,2021-05-04
+55,454,Current,,737303.77,,2020-11-13
+56,521,Savings,Westlands,425492.15,Dormant,2021-10-26
+57,502,Savings,Nairobi Cbd,952060.56,Active,2024-01-18
+58,179,,Westlands,969261.42,Dormant,2023-12-21
+59,267,Savings,Nairobi Cbd,163891.31,Active,2021-04-07
+60,422,Savings,Westlands,634687.92,Dormant,2023-06-17
+61,140,Fixed Deposit, Kisumu,234062.0,Dormant,2025-11-16
+62,7,, Kisumu,128767.64,Active,2024-04-05
+63,307,Savings,Westlands,585491.49,Dormant,2024-08-25
+64,342,Savings,,421758.41,Dormant,2021-04-20
+65,159,, Kisumu,838683.38,,2022-06-19
+66,212,Savings,Mombasa,7433.16,,2024-01-10
+67,212,Savings,Nairobi Cbd,895291.07,Active,2023-08-12
+68,202,Savings,Mombasa,445258.22,Active,2022-12-28
+69,166,Current, Kisumu,466002.74,Active,2023-06-10
+70,297,Savings,,67177.43,Active,2025-12-11
+71,480,Fixed Deposit,Nairobi Cbd,746027.23,Active,2025-02-11
+72,271,Savings, Kisumu,956516.57,,2024-03-26
+73,195,,Mombasa,3343.64,Active,2025-08-06
+74,293,,Mombasa,651338.3,Active,2022-12-24
+75,142,Savings,Nairobi Cbd,773310.74,Dormant,2023-03-06
+76,304,Current,Westlands,961832.64,Dormant,2023-08-29
+77,105,Current,,323306.83,Dormant,2021-01-13
+78,365,Current,Westlands,365368.36,Active,2022-09-25
+79,260,Savings,Nairobi Cbd,36459.25,,2026-01-02
+80,52,Savings, Kisumu,420094.91,Dormant,2022-09-29
+81,307,,,624626.63,Dormant,2020-01-07
+82,233,Savings,Westlands,440404.32,,2020-08-30
+83,92,Savings, Kisumu,476798.41,Dormant,2022-10-26
+84,382,Savings,Nairobi Cbd,840027.22,,2025-02-24
+85,147,Current,Nairobi Cbd,659933.21,,2025-06-22
+86,347,Savings, Kisumu,3841.91,Dormant,2023-06-06
+87,169,Fixed Deposit,Mombasa,-785.49,Active,2021-07-13
+88,201,Fixed Deposit,Nairobi Cbd,540435.25,,2024-07-20
+89,439,,Westlands,974240.99,Active,2019-05-16
+90,62,Current,,656728.29,,2024-09-18
+91,378,Fixed Deposit,Westlands,295808.43,Active,2022-09-09
+92,544,Savings,Westlands,218595.71,,2025-05-12
+93,88,Savings,,368869.93,,2021-01-29
+94,369,,Westlands,562639.08,,2020-01-28
+95,268,Savings,Westlands,176404.16,Dormant,2023-01-27
+96,115,Savings,Mombasa,647922.53,Dormant,2021-09-22
+97,544,Current, Kisumu,223125.16,,2023-11-12
+98,232,,,695207.5,Active,2020-04-09
+99,418,Savings, Kisumu,129956.37,Active,2023-04-14
+100,528,Savings, Kisumu,829361.78,,2022-04-22
+101,176,Savings,,472484.06,Active,2021-02-28
+102,141,Current,,52842.31,Dormant,2022-01-12
+103,49,Current,Nairobi Cbd,10246.96,Dormant,2025-03-24
+104,471,Current,Nairobi Cbd,705963.6,,2019-12-28
+105,90,,Westlands,560774.06,Active,2020-05-12
+106,173,Current,Mombasa,803130.37,Active,2023-09-05
+107,262,Savings,Westlands,369879.53,Active,2022-06-01
+108,501,Savings,,350209.73,Active,2019-06-25
+109,336,,Nairobi Cbd,29317.19,Dormant,2021-07-28
+110,261,Current,Westlands,692397.44,Active,2020-10-18
+111,451,Savings,Nairobi Cbd,485488.0,Active,2019-10-09
+112,265,Savings,Westlands,552017.45,Active,2024-04-20
+113,390,Savings,,874780.34,Active,2024-04-09
+114,455,Savings,Nairobi Cbd,339079.86,Dormant,2025-09-08
+115,499,, Kisumu,872424.08,Active,2023-05-07
+116,77,Savings,,817389.51,,2024-10-23
+117,488,Savings, Kisumu,390383.17,Active,2020-10-12
+118,370,Current,,212395.93,Dormant,2022-02-21
+119,45,Savings,Westlands,818275.75,,2020-05-02
+120,340,, Kisumu,384820.71,Active,2021-11-26
+121,322,Savings,Mombasa,577057.45,Active,2026-02-02
+122,233,Savings,Westlands,456704.75,Active,2024-08-07
+123,150,Savings,Mombasa,381353.31,Active,2022-07-17
+124,513,Current,Mombasa,566805.64,Dormant,2022-06-14
+125,35,,Nairobi Cbd,871744.62,,2019-07-28
+126,102,Current,Mombasa,792007.3,Dormant,2025-08-12
+127,145,Savings,Mombasa,962772.04,Active,2022-09-23
+128,372,,Westlands,347181.95,,2022-03-06
+129,343,Savings,Mombasa,670111.87,,2022-06-01
+130,516,Current,Westlands,808263.86,Active,2021-07-15
+131,155,Savings,Westlands,2268.66,,2023-04-01
+132,415,Fixed Deposit, Kisumu,566570.54,Active,2020-07-27
+133,173,,Nairobi Cbd,139533.98,Active,2021-05-10
+134,259,,,657153.92,Active,2025-08-20
+135,76,Savings,,924402.08,Dormant,2019-08-08
+136,312,,Mombasa,987399.55,Active,2024-09-01
+137,439,Savings, Kisumu,315853.56,Dormant,2023-01-12
+138,283,Current,,18187.36,Dormant,2024-05-04
+139,275,Savings,Nairobi Cbd,214405.82,,2022-03-31
+140,459,Savings,,279048.55,Active,2024-02-15
+141,202,Savings,Nairobi Cbd,962955.86,Active,2024-09-22
+142,82,Savings,,337866.15,Dormant,2020-04-28
+143,6,Savings,Mombasa,534624.14,Active,2024-05-27
+144,331,Savings,Westlands,318155.58,Active,2019-07-21
+145,498,Fixed Deposit,,677358.46,Active,2023-02-17
+146,179,Savings, Kisumu,795243.37,Active,2019-10-19
+147,343,Fixed Deposit,,396555.16,,2025-09-13
+148,14,Savings,Mombasa,561960.0,Active,2025-05-12
+149,58,Fixed Deposit,,708694.64,Active,2021-11-11
+150,161,Savings,Nairobi Cbd,151972.46,Dormant,2019-08-24
+151,543,Savings,Mombasa,813087.37,,2024-03-15
+152,353,,,865216.31,Dormant,2023-07-12
+153,339,Savings,,254120.07,,2025-12-26
+154,33,Current,,977271.76,,2024-06-16
+155,285,Current,,527282.35,Active,2019-08-17
+156,136,Current,Nairobi Cbd,555922.75,Active,2024-06-30
+157,372,Savings,Westlands,397848.35,Active,2022-03-07
+158,29,,Westlands,117833.52,Dormant,2022-10-03
+159,187,Current,,362437.42,Dormant,2021-04-01
+160,182,Savings,,24188.18,Dormant,2023-02-22
+161,453,Fixed Deposit,Westlands,634306.22,Active,2021-10-07
+162,399,Fixed Deposit,Westlands,320450.92,Active,2022-12-06
+163,111,Savings,Nairobi Cbd,805785.49,,2025-01-05
+164,360,Savings,Westlands,562022.1,,2026-01-27
+165,385,Savings,Nairobi Cbd,248188.41,Active,2021-02-23
+166,445,Savings,Westlands,351075.81,Active,2020-09-10
+167,436,Current,Mombasa,878817.36,,2019-07-29
+168,222,,Westlands,474758.06,Active,2022-12-02
+169,140,Current,Mombasa,83875.09,Active,2020-10-23
+170,498,Savings,Westlands,316367.04,,2021-06-28
+171,218,,Nairobi Cbd,882272.33,Dormant,2019-11-09
+172,370,Savings, Kisumu,178208.7,Dormant,2023-05-22
+173,305,Savings,Nairobi Cbd,147687.58,Active,2024-06-25
+174,137,Current,Westlands,500142.78,Active,2025-10-20
+175,100,Savings, Kisumu,681183.41,Active,2022-03-15
+176,425,Current, Kisumu,881361.08,Active,2019-09-27
+177,241,Savings,Nairobi Cbd,33063.38,Dormant,2024-06-17
+178,441,Savings,Nairobi Cbd,43560.25,Active,2025-10-06
+179,67,Savings,Nairobi Cbd,956951.72,Dormant,2025-11-09
+180,539,Fixed Deposit,Nairobi Cbd,174876.1,Dormant,2025-09-13
+181,513,Savings,,350340.56,,2023-02-11
+182,80,Current,Westlands,852442.63,Dormant,2022-01-25
+183,75,Current,Westlands,10283.16,Active,2023-06-22
+184,71,Savings,Westlands,506295.05,,2023-03-19
+185,372,Current,Nairobi Cbd,322340.51,Active,2022-06-14
+186,465,,Mombasa,546554.09,,2020-01-01
+187,276,Fixed Deposit, Kisumu,314856.59,,2023-11-11
+188,393,Savings, Kisumu,759762.77,,2019-08-05
+189,147,Savings,Westlands,605869.08,Active,2024-07-07
+190,387,Savings,Westlands,661744.03,Active,2019-07-04
+191,35,Savings, Kisumu,692660.31,Active,2023-04-26
+192,454,,Mombasa,452771.48,Active,2021-04-20
+193,485,Fixed Deposit,,339069.84,,2021-10-26
+194,241,Fixed Deposit,Mombasa,710733.81,,2022-08-19
+195,539,Current,,657898.97,Active,2025-12-25
+196,74,,Westlands,923567.29,Active,2022-05-15
+197,269,Fixed Deposit,Mombasa,519653.52,,2024-01-07
+198,227,Savings,Nairobi Cbd,926965.34,Active,2023-03-12
+199,537,Savings,,164978.53,Active,2024-03-25
+200,245,Savings,Westlands,820994.43,,2021-02-21
+201,182,Savings,Mombasa,378168.4,,2024-03-05
+202,126,Fixed Deposit,Westlands,701134.87,,2026-02-24
+203,106,Current,Mombasa,661319.35,Active,2023-02-27
+204,464,Savings,Mombasa,392526.0,,2020-03-07
+205,115,Fixed Deposit, Kisumu,729332.41,Dormant,2021-03-30
+206,530,Savings,Nairobi Cbd,678580.84,Active,2021-07-19
+207,501,,Westlands,620859.24,Active,2021-02-16
+208,391,Current,Nairobi Cbd,553981.43,Active,2025-04-25
+209,266,Savings,,174321.6,Active,2025-08-22
+210,332,Current,Westlands,261731.01,,2022-12-05
+211,94,, Kisumu,858185.42,Dormant,2025-11-28
+212,132,Fixed Deposit,Mombasa,615950.78,Active,2025-04-16
+213,45,Fixed Deposit, Kisumu,364010.3,Active,2024-07-12
+214,418,Fixed Deposit,,809880.55,Active,2025-05-20
+215,245,Fixed Deposit,,125121.23,Dormant,2019-11-19
+216,382,Savings,Westlands,326097.83,Active,2024-08-28
+217,82,Fixed Deposit, Kisumu,390226.03,,2022-10-18
+218,509,Savings,Nairobi Cbd,590740.45,,2021-05-26
+219,474,Fixed Deposit, Kisumu,994904.88,Dormant,2022-07-20
+220,67,Fixed Deposit, Kisumu,488726.5,Active,2021-05-05
+221,238,Savings, Kisumu,539373.67,Active,2020-06-19
+222,339,Fixed Deposit, Kisumu,113709.79,Dormant,2020-12-01
+223,79,,Nairobi Cbd,97214.99,Active,2025-02-22
+224,221,, Kisumu,50279.72,Dormant,2023-02-23
+225,344,Fixed Deposit,Nairobi Cbd,548129.16,,2020-02-07
+226,144,Fixed Deposit,Nairobi Cbd,871292.37,Dormant,2022-03-29
+227,329,Current,Westlands,515810.23,Active,2020-12-10
+228,191,,Mombasa,517610.79,Active,2024-11-23
+229,321,Fixed Deposit,Mombasa,662274.48,Active,2020-03-23
+230,405,, Kisumu,679468.19,Active,2023-04-29
+231,312,Savings, Kisumu,800981.92,Active,2026-03-10
+232,313,Savings,Westlands,47367.76,Active,2023-04-17
+233,476,Fixed Deposit,,136989.59,Active,2026-02-25
+234,206,Fixed Deposit,,662212.7,Active,2023-08-31
+235,9,,Nairobi Cbd,405973.26,Active,2022-06-01
+236,37,Current,Westlands,795068.9,Active,2019-12-02
+237,206,Savings,,608780.03,,2022-07-12
+238,456,Savings,Westlands,53004.96,,2020-11-08
+239,128,Savings,Westlands,861943.54,Active,2020-08-05
+240,510,Savings,Nairobi Cbd,922010.45,Dormant,2025-11-30
+241,511,Savings,Mombasa,800938.37,Dormant,2026-01-31
+242,150,Savings,,96366.62,Active,2024-07-18
+243,207,Savings,Nairobi Cbd,411764.6,Active,2019-10-08
+244,454,Fixed Deposit,Westlands,867515.39,Dormant,2019-05-21
+245,43,Savings, Kisumu,290103.29,Dormant,2025-10-13
+246,327,,Westlands,306114.46,Active,2019-06-30
+247,333,,Westlands,147657.31,Dormant,2023-05-02
+248,401,Savings,Mombasa,376874.5,Active,2021-11-11
+249,229,,Nairobi Cbd,194146.84,Dormant,2021-10-22
+250,189,Fixed Deposit,Mombasa,677301.37,Active,2025-10-05
+251,40,Current,Nairobi Cbd,655781.7,Dormant,2021-06-03
+252,537,,Nairobi Cbd,287212.45,Active,2020-10-28
+253,19,Fixed Deposit,Nairobi Cbd,196512.3,Active,2019-07-03
+254,311,,,538419.99,Active,2020-09-25
+255,207,Savings, Kisumu,267529.95,Dormant,2022-04-13
+256,308,Savings,,596787.31,Active,2022-05-13
+257,353,Savings,Westlands,654814.54,Active,2021-06-19
+258,177,Current,Mombasa,446871.79,Dormant,2019-06-13
+259,338,Current,Westlands,105196.47,Active,2020-12-02
+260,72,, Kisumu,91147.0,Active,2021-09-01
+261,166,, Kisumu,458703.84,Active,2021-01-18
+262,41,,,92712.92,Dormant,2021-03-01
+263,426,,Mombasa,71614.45,Dormant,2022-12-11
+264,369,Savings,Nairobi Cbd,328289.03,,2024-06-18
+265,311,Savings,Mombasa,89483.25,Dormant,2020-02-11
+266,120,Savings, Kisumu,266821.46,Active,2021-12-18
+267,333,Fixed Deposit,Westlands,159846.9,Active,2022-10-21
+268,519,Current,Mombasa,949142.02,Active,2022-06-26
+269,414,,Westlands,987978.71,Dormant,2022-06-02
+270,548,,Westlands,890062.07,Active,2020-07-23
+271,109,Savings, Kisumu,790639.69,Dormant,2024-11-22
+272,235,Savings,Westlands,149425.33,Active,2023-03-02
+273,32,Fixed Deposit, Kisumu,622362.6,Active,2025-09-13
+274,299,,Nairobi Cbd,79747.66,Dormant,2023-10-19
+275,240,Savings,,773824.9,Active,2022-06-09
+276,252,Savings,,333981.72,Active,2020-09-05
+277,43,Savings,,771720.05,Dormant,2021-10-05
+278,311,Current,Nairobi Cbd,809603.67,,2019-09-24
+279,188,Savings,Mombasa,940009.81,,2023-03-26
+280,417,Savings,Nairobi Cbd,787556.22,Dormant,2019-09-19
+281,524,Savings,Westlands,796647.43,Dormant,2023-12-08
+282,209,Savings,Westlands,684466.44,Active,2021-07-23
+283,3,Fixed Deposit,Nairobi Cbd,494814.98,Active,2024-08-03
+284,71,,Nairobi Cbd,195034.12,Active,2022-03-06
+285,375,Fixed Deposit,Nairobi Cbd,649200.67,Active,2019-10-22
+286,167,Fixed Deposit, Kisumu,130616.05,Active,2026-03-17
+287,55,Fixed Deposit,,160548.06,,2025-01-07
+288,526,Current,,529329.6,Active,2019-08-29
+289,70,Current,Westlands,236306.56,,2025-09-14
+290,243,Fixed Deposit,,907659.5,Active,2026-01-04
+291,402,Fixed Deposit,Mombasa,824898.18,,2020-01-17
+292,90,Savings,Mombasa,661595.98,,2024-07-28
+293,313,Savings,Mombasa,486498.26,Active,2019-10-15
+294,114,Fixed Deposit, Kisumu,407860.65,Active,2024-01-07
+295,469,Savings,Mombasa,543131.44,Active,2020-04-01
+296,363,Fixed Deposit, Kisumu,617372.71,Active,2021-04-28
+297,344,Savings,Mombasa,183225.22,,2024-10-09
+298,418,,Westlands,116314.18,Active,2021-12-17
+299,385,Savings, Kisumu,267838.0,Dormant,2023-10-15
+300,372,Savings,Westlands,348307.53,,2021-02-14
+301,316,Fixed Deposit,Mombasa,955562.65,Dormant,2020-10-22
+302,167,Fixed Deposit,,4103.82,Dormant,2023-12-16
+303,107,Savings, Kisumu,563086.13,Active,2025-04-18
+304,361,Savings,,733244.42,,2020-10-03
+305,139,Current, Kisumu,71282.32,Active,2025-05-15
+306,455,Current,Mombasa,358630.57,,2022-03-10
+307,535,Savings, Kisumu,490807.35,Active,2019-08-25
+308,59,Savings,,374059.52,Active,2019-11-27
+309,525,Savings,,748566.22,Active,2020-07-19
+310,334,Fixed Deposit,Westlands,2105.6,Active,2024-08-25
+311,148,Savings,,917590.89,Active,2024-08-24
+312,402,Savings,,639703.53,Active,2021-04-13
+313,248,Current,,20933.28,,2026-04-18
+314,87,Fixed Deposit, Kisumu,962837.81,Active,2021-03-13
+315,285,Current,Westlands,832665.15,,2023-12-14
+316,50,,Mombasa,893190.41,Dormant,2021-08-28
+317,529,Savings,Westlands,304541.52,Dormant,2024-07-11
+318,320,Savings,,294120.42,,2021-09-28
+319,369,Savings,Mombasa,305950.53,,2025-12-27
+320,203,,Mombasa,927687.6,,2020-06-10
+321,112,Current,Mombasa,390940.89,,2021-01-02
+322,484,Current,Nairobi Cbd,199994.46,,2020-05-28
+323,514,Fixed Deposit,Westlands,777539.61,Active,2020-12-19
+324,46,Savings,Mombasa,755862.63,,2022-10-21
+325,422,Savings,Mombasa,388600.13,,2025-05-27
+326,543,Current,Nairobi Cbd,256025.28,Active,2026-01-24
+327,43,,,302114.38,Active,2021-07-13
+328,272,Savings,Nairobi Cbd,874978.13,Active,2020-05-28
+329,423,Savings,Mombasa,161750.4,Dormant,2022-04-12
+330,121,Fixed Deposit, Kisumu,840822.96,Active,2025-07-15
+331,410,Fixed Deposit, Kisumu,804761.18,Active,2020-08-15
+332,191,Savings,,734337.83,,2020-01-09
+333,296,Savings,Westlands,335422.71,Active,2024-04-28
+334,424,Savings,,-1876.63,Dormant,2020-10-11
+335,443,Fixed Deposit,Westlands,571591.25,Active,2022-03-28
+336,136,Savings,Westlands,669907.91,Dormant,2019-07-23
+337,513,Savings,Mombasa,898309.65,,2021-03-23
+338,295,Savings, Kisumu,610414.24,Active,2026-01-27
+339,69,,,823367.58,Active,2023-05-04
+340,219,Savings,Mombasa,89309.24,Active,2020-04-21
+341,369,Savings,,67541.33,Active,2022-03-22
+342,224,Savings, Kisumu,627387.51,Dormant,2024-07-27
+343,458,Current,,54395.73,,2022-03-21
+344,34,Savings,,826528.5,Active,2022-06-16
+345,496,Savings,Mombasa,627596.46,Active,2026-05-08
+346,339,,,226441.7,Dormant,2023-05-12
+347,289,,,711662.75,Dormant,2024-02-29
+348,178,Savings,,264398.36,Active,2019-12-04
+349,65,Current,Nairobi Cbd,582844.5,,2023-04-18
+350,400,,,406073.19,Active,2022-11-12
+351,381,,Mombasa,656115.05,Active,2019-11-15
+352,74,Fixed Deposit,,129411.96,,2024-05-15
+353,466,Savings,Mombasa,613763.28,Active,2023-02-05
+354,413,Savings,Mombasa,758353.95,Active,2022-09-24
+355,529,Savings, Kisumu,776317.7,Dormant,2023-07-15
+356,272,Savings,,754323.18,Active,2025-05-21
+357,24,,Nairobi Cbd,58043.08,Dormant,2024-11-01
+358,428,Savings,,260110.28,Active,2022-02-20
+359,168,,Mombasa,991425.7,Active,2023-03-11
+360,108,Savings,Westlands,689777.38,,2019-11-12
+361,31,Fixed Deposit,Nairobi Cbd,339652.42,Dormant,2024-04-19
+362,373,Fixed Deposit, Kisumu,990523.84,Active,2022-03-30
+363,327,Fixed Deposit,Westlands,849218.6,Active,2020-11-26
+364,521,Fixed Deposit,Westlands,350585.2,Active,2024-02-01
+365,198,Current,,433931.14,,2019-11-04
+366,165,Fixed Deposit,Westlands,134009.41,Active,2024-01-20
+367,220,,,375801.64,Active,2020-06-26
+368,89,Fixed Deposit,Nairobi Cbd,199978.74,Active,2022-06-01
+369,332,Current,,557382.11,,2024-06-25
+370,497,Savings,Nairobi Cbd,239629.68,Active,2022-05-28
+371,392,Savings,Nairobi Cbd,589177.81,Dormant,2023-06-07
+372,205,Fixed Deposit, Kisumu,569917.41,,2019-06-02
+373,70,,Nairobi Cbd,861007.7,Dormant,2024-10-16
+374,410,Savings, Kisumu,690492.32,,2025-04-20
+375,146,Savings, Kisumu,597067.14,Active,2023-08-14
+376,245,Savings,Nairobi Cbd,389265.86,Dormant,2019-07-11
+377,40,Savings,Nairobi Cbd,907533.42,Dormant,2021-09-15
+378,1,Savings, Kisumu,43924.23,Dormant,2022-02-05
+379,225,Savings,,636832.61,,2023-08-24
+380,270,Savings,Westlands,465254.81,,2021-01-07
+381,107,Savings,Westlands,138969.36,Dormant,2023-06-29
+382,525,Current,Nairobi Cbd,507358.49,,2019-11-21
+383,3,Savings,Nairobi Cbd,553674.18,Active,2022-09-03
+384,515,,,610870.69,Active,2022-03-08
+385,56,,,287419.94,,2020-01-16
+386,8,,Westlands,19192.18,,2024-03-30
+387,214,Savings,Westlands,670088.01,Active,2020-10-11
+388,89,,,349290.55,Active,2025-04-12
+389,90,Savings,Nairobi Cbd,85232.13,Active,2019-06-03
+390,310,Current,Mombasa,143562.11,Active,2020-11-09
+391,197,Savings,Nairobi Cbd,70370.39,Active,2021-09-29
+392,220,, Kisumu,452901.45,,2020-01-06
+393,216,Savings,Nairobi Cbd,836374.14,Active,2024-02-05
+394,139,Fixed Deposit,Nairobi Cbd,175710.58,Active,2023-11-28
+395,453,Current,Westlands,248909.58,Active,2025-01-10
+396,357,Savings,Mombasa,379203.56,Dormant,2024-08-23
+397,454,Savings, Kisumu,761143.22,Active,2020-06-21
+398,281,Savings,Nairobi Cbd,409477.92,Active,2019-11-22
+399,349,Savings,,885714.47,Active,2022-07-28
+400,2,Savings,Mombasa,793572.09,Dormant,2021-02-19
+401,108,Savings,Mombasa,422125.86,Active,2022-01-14
+402,376,Savings,,117466.89,,2024-09-15
+403,165,Savings,,48670.31,Dormant,2020-07-06
+404,418,,Nairobi Cbd,646032.91,Dormant,2024-08-23
+405,295,Savings,Mombasa,428545.12,Active,2020-05-21
+406,181,, Kisumu,612340.88,Dormant,2023-06-13
+407,292,Fixed Deposit,Westlands,338444.92,Active,2019-09-21
+408,94,Savings,Mombasa,616373.72,Dormant,2020-03-29
+409,72,,Nairobi Cbd,693391.03,Active,2025-10-27
+410,80,Savings,Nairobi Cbd,533356.87,Active,2025-09-07
+411,371,Savings,Westlands,555085.6,,2024-07-23
+412,523,Current, Kisumu,173781.0,Active,2023-10-21
+413,262,Current, Kisumu,405987.84,Dormant,2022-05-20
+414,456,Savings, Kisumu,339057.83,Dormant,2026-01-09
+415,32,Fixed Deposit,Westlands,102108.2,Dormant,2023-12-06
+416,360,Current,Mombasa,623012.46,Dormant,2023-08-12
+417,75,Savings,Westlands,781352.26,Active,2024-03-28
+418,270,Savings,Nairobi Cbd,139377.69,Active,2026-04-09
+419,59,Fixed Deposit,Mombasa,650488.98,Dormant,2025-01-24
+420,64,Savings,Mombasa,9892.23,Dormant,2022-08-31
+421,364,Current,,721254.62,Dormant,2024-06-27
+422,379,Current,Mombasa,363061.27,Active,2023-03-23
+423,255,Savings,Mombasa,759601.35,Active,2022-04-11
+424,230,Savings,Westlands,761458.79,Active,2024-07-08
+425,247,Fixed Deposit,Mombasa,869008.63,Active,2022-06-13
+426,102,Fixed Deposit,Mombasa,230987.19,Active,2022-12-25
+427,484,Fixed Deposit, Kisumu,111423.31,,2023-11-24
+428,504,Savings, Kisumu,113357.78,,2022-11-10
+429,178,Savings, Kisumu,437467.28,Active,2023-02-17
+430,196,Savings,Mombasa,357947.1,,2025-03-16
+431,245,Current,,52576.37,Dormant,2019-05-19
+432,496,Savings,,609197.94,,2024-01-05
+433,113,Savings, Kisumu,522464.51,Dormant,2024-02-01
+434,535,Savings,,863986.83,Dormant,2021-01-01
+435,104,Savings, Kisumu,261629.76,,2022-03-12
+436,135,Savings, Kisumu,629151.83,Active,2021-08-05
+437,211,Current,Mombasa,63486.56,,2021-05-24
+438,494,Current,Westlands,507084.3,Active,2026-03-20
+439,482,Savings,,646670.8,,2024-07-03
+440,143,Current,Westlands,384294.0,Active,2025-04-06
+441,43,Current,Westlands,698264.9,Active,2023-12-15
+442,470,Savings, Kisumu,213052.78,Active,2021-05-18
+443,293,Fixed Deposit,Westlands,838461.75,Active,2020-09-15
+444,322,,Westlands,939138.87,,2020-07-06
+445,26,Savings,Nairobi Cbd,356719.67,,2025-06-20
+446,239,Savings, Kisumu,370580.96,,2021-11-07
+447,218,,Westlands,188365.06,,2019-09-13
+448,207,Current, Kisumu,267334.79,Active,2025-10-30
+449,33,Fixed Deposit,Westlands,339880.23,Active,2026-01-15
+450,383,Savings,Westlands,827167.76,Active,2021-01-31
+451,159,,Mombasa,604682.98,,2022-03-31
+452,396,Savings,Mombasa,236642.1,Active,2022-01-03
+453,281,Fixed Deposit,Westlands,909920.1,Dormant,2024-11-19
+454,329,Savings,Westlands,230481.75,Dormant,2024-01-18
+455,83,, Kisumu,788966.18,Active,2021-09-14
+456,229,Savings,Mombasa,967595.23,,2023-12-01
+457,98,Savings, Kisumu,914349.82,Active,2022-08-15
+458,18,Current,Nairobi Cbd,285414.5,Dormant,2021-06-02
+459,142,Fixed Deposit,Nairobi Cbd,527029.76,Active,2022-08-15
+460,526,,Nairobi Cbd,443506.53,,2022-02-16
+461,544,,Mombasa,898264.17,Dormant,2024-12-30
+462,447,Savings,,897030.13,,2026-03-14
+463,186,Current,Westlands,409101.44,Active,2021-10-29
+464,76,Savings,,680798.0,Dormant,2021-08-22
+465,336,Savings, Kisumu,472723.27,Dormant,2022-12-20
+466,477,Current,Westlands,978100.36,Active,2023-11-23
+467,213,, Kisumu,398053.86,Dormant,2025-06-03
+468,239,Current,Mombasa,376988.58,,2024-03-07
+469,374,Savings,Westlands,637996.95,Active,2024-08-08
+470,116,Savings,,131675.96,,2022-01-05
+471,431,Savings, Kisumu,580264.53,Active,2021-06-11
+472,365,Current, Kisumu,311067.24,,2026-05-04
+473,19,Savings, Kisumu,366555.09,Active,2025-12-06
+474,209,Savings,,966153.69,Dormant,2020-02-11
+475,379,Current,Mombasa,159224.75,Active,2025-12-14
+476,466,,Nairobi Cbd,194308.31,Active,2026-01-04
+477,548,Fixed Deposit,,268800.46,Active,2023-04-09
+478,5,Savings,Nairobi Cbd,694365.66,Active,2022-07-12
+479,178,Savings,Westlands,261459.33,Dormant,2024-02-15
+480,20,Savings,Nairobi Cbd,77885.33,Active,2020-08-30
+481,204,Savings, Kisumu,332033.73,Active,2019-12-01
+482,328,Current, Kisumu,746259.55,Active,2023-01-01
+483,342,Savings,Nairobi Cbd,260307.07,Active,2026-03-29
+484,94,Savings,,47589.86,Active,2026-03-08
+485,135,Current,Mombasa,499268.37,Dormant,2021-09-17
+486,193,,,804184.65,Dormant,2019-05-23
+487,433,Fixed Deposit,Mombasa,715595.62,Dormant,2024-09-07
+488,319,Savings, Kisumu,89680.48,Dormant,2024-07-07
+489,196,Fixed Deposit, Kisumu,790226.16,Dormant,2021-01-22
+490,96,Fixed Deposit,,432648.98,Active,2020-12-21
+491,198,,Westlands,103435.13,,2023-04-02
+492,247,Current,,420593.65,Active,2023-06-28
+493,59,Savings,Westlands,722982.01,Dormant,2020-04-19
+494,526,Current,Westlands,637992.28,,2025-08-30
+495,197,Savings,Westlands,986179.39,Active,2022-06-22
+496,135,Savings,Nairobi Cbd,222442.93,Active,2022-03-15
+497,318,Fixed Deposit,Mombasa,520523.77,Active,2021-02-15
+498,57,,Mombasa,84582.71,Active,2020-01-13
+499,333,,Westlands,147008.5,Dormant,2022-07-01
+500,473,Savings,Westlands,317182.85,Active,2020-04-18
+501,488,,Mombasa,774305.19,Active,2026-04-08
+502,72,, Kisumu,434487.95,Active,2024-10-06
+503,259,,Westlands,446874.62,,2022-05-25
+504,429,Current,,444078.92,Active,2024-08-31
+505,53,Savings, Kisumu,83299.88,Active,2024-06-12
+506,137,Savings,,124596.79,,2022-07-08
+507,36,Current,Nairobi Cbd,851684.22,Active,2025-03-25
+508,448,,Nairobi Cbd,140552.75,Active,2021-05-01
+509,53,Savings,Mombasa,909364.45,Dormant,2021-05-08
+510,543,Savings,Nairobi Cbd,312587.26,,2022-02-01
+511,174,Savings,Westlands,383807.63,,2025-01-03
+512,347,Current,Nairobi Cbd,890570.17,,2021-02-28
+513,120,Savings,Mombasa,942669.72,,2024-02-16
+514,485,Savings,Westlands,602071.78,Active,2020-12-19
+515,477,Fixed Deposit,Westlands,732662.65,Dormant,2026-03-28
+516,199,Fixed Deposit,Nairobi Cbd,866759.27,Active,2020-04-02
+517,254,Savings,Mombasa,510386.09,Dormant,2023-05-20
+518,329,Current,Westlands,728029.99,Active,2025-06-12
+519,193,Fixed Deposit,Nairobi Cbd,820781.23,Dormant,2023-07-22
+520,353,Savings,Mombasa,604559.26,Active,2025-01-30
+521,335,Savings,Mombasa,818005.32,Active,2020-07-27
+522,375,Current,Mombasa,615918.73,,2025-04-21
+523,388,Current,Nairobi Cbd,942471.23,Active,2023-10-04
+524,421,,Westlands,816045.41,Active,2022-01-12
+525,176,Savings,Mombasa,249483.21,Active,2025-04-03
+526,390,Fixed Deposit,Mombasa,129260.34,Active,2019-05-21
+527,57,Current,Westlands,847115.75,Dormant,2023-10-06
+528,50,, Kisumu,945896.59,,2025-08-04
+529,473,Savings,Mombasa,357706.61,Active,2022-12-06
+530,103,Savings,Mombasa,886048.91,Active,2021-01-06
+531,233,Current,Nairobi Cbd,613134.33,,2020-02-09
+532,54,Savings, Kisumu,638274.78,Active,2021-08-04
+533,489,Fixed Deposit,Mombasa,636825.73,,2022-10-25
+534,327,Current,Mombasa,737765.98,Active,2023-07-09
+535,109,,,997762.07,Active,2025-12-04
+536,496,Fixed Deposit, Kisumu,6863.32,Dormant,2023-10-19
+537,213,Savings,Mombasa,540481.62,Active,2022-06-03
+538,36,Fixed Deposit,,567079.8,Active,2025-03-01
+539,135,Fixed Deposit,Nairobi Cbd,179728.88,Active,2023-12-05
+540,528,Current,Nairobi Cbd,218439.53,Active,2022-08-30
+541,225,Current, Kisumu,153529.69,Active,2024-11-27
+542,427,Savings,Mombasa,298272.61,Active,2026-02-20
+543,528,Savings, Kisumu,544602.44,Active,2023-02-08
+544,147,, Kisumu,999959.94,Dormant,2023-12-03
+545,188,Savings,,878350.86,Active,2026-05-10
+546,371,Savings,Nairobi Cbd,203431.02,Active,2025-07-29
+547,515,Savings,,459715.16,Dormant,2025-05-23
+548,219,Savings,Westlands,629226.48,Active,2020-03-21
+549,435,Savings,,686007.03,Active,2019-06-24
+550,240,Fixed Deposit,Westlands,510790.28,,2022-03-14
+551,56,Savings,Nairobi Cbd,801699.01,Dormant,2024-05-24
+552,243,,Mombasa,228244.71,Dormant,2020-01-02
+553,238,,Westlands,903660.57,Dormant,2026-04-02
+554,113,Fixed Deposit,,709128.09,Active,2023-08-18
+555,435,,Nairobi Cbd,485842.5,Active,2019-12-25
+556,454,Savings,Nairobi Cbd,897171.75,,2026-03-06
+557,146,Current, Kisumu,167455.25,Dormant,2023-04-05
+558,345,Fixed Deposit,Westlands,996503.22,Dormant,2024-02-09
+559,166,Fixed Deposit,Mombasa,616301.48,Active,2025-04-01
+560,318,Savings,Westlands,442766.06,Dormant,2022-03-27
+561,198,,Mombasa,120087.21,Active,2023-11-15
+562,189,Fixed Deposit, Kisumu,839128.63,,2022-04-18
+563,485,Current, Kisumu,516103.1,,2023-04-09
+564,522,Savings,,165036.27,Active,2022-06-16
+565,361,Fixed Deposit,Nairobi Cbd,400413.19,Active,2019-09-09
+566,436,Current,Mombasa,703486.52,,2025-11-23
+567,156,Fixed Deposit,,545651.39,Active,2023-03-06
+568,489,Current,,628103.01,,2019-12-17
+569,443,,Mombasa,152251.72,Active,2020-05-31
+570,149,Current, Kisumu,789971.57,Dormant,2024-10-17
+571,349,Savings,,549665.21,Dormant,2021-10-22
+572,293,Savings,Westlands,897012.94,Active,2024-11-26
+573,331,Fixed Deposit, Kisumu,493177.11,Active,2020-03-22
+574,534,Savings,Mombasa,546735.59,Active,2024-07-14
+575,489,Savings,Mombasa,250821.61,Active,2020-01-09
+576,18,Current, Kisumu,62530.45,Active,2025-06-19
+577,283,Current,Mombasa,820555.5,Dormant,2025-05-14
+578,387,Savings,Nairobi Cbd,189113.6,Active,2022-04-16
+579,144,Savings,Mombasa,224127.09,Active,2022-07-27
+580,448,Current,Nairobi Cbd,732086.4,Active,2022-03-19
+581,148,,,921558.79,Active,2021-05-06
+582,153,Fixed Deposit,Westlands,35065.0,,2025-11-09
+583,396,Fixed Deposit,Nairobi Cbd,627714.55,Dormant,2025-02-13
+584,130,Current,Nairobi Cbd,79526.62,Dormant,2025-06-22
+585,128,Savings,Nairobi Cbd,324451.01,Dormant,2025-12-13
+586,116,Fixed Deposit,Westlands,102648.47,Dormant,2025-12-22
+587,367,Savings,Mombasa,116493.18,,2025-03-29
+588,334,Fixed Deposit, Kisumu,249579.68,Dormant,2022-07-09
+589,495,Savings,Westlands,161389.64,Dormant,2019-06-04
+590,360,Savings, Kisumu,527863.49,Active,2026-01-05
+591,451,,,8872.0,,2024-09-29
+592,24,,Mombasa,658493.12,Dormant,2025-10-27
+593,50,,,138182.47,Dormant,2022-08-01
+594,393,Savings,Nairobi Cbd,497812.86,Active,2024-12-02
+595,371,Fixed Deposit,Westlands,567730.25,,2022-06-20
+596,342,Fixed Deposit,,928585.29,Dormant,2023-02-09
+597,324,Fixed Deposit,Westlands,265292.88,Dormant,2023-08-03
+598,5,,Mombasa,314864.74,Active,2020-01-18
+599,345,Savings,,856959.8,,2021-10-17
+600,282,Savings, Kisumu,929861.82,Active,2020-03-08
+601,153,Fixed Deposit,Nairobi Cbd,571194.24,Active,2024-07-24
+602,520,Fixed Deposit,Nairobi Cbd,82702.48,Dormant,2023-08-24
+603,106,Fixed Deposit,Mombasa,875895.11,,2021-05-11
+604,453,Current,Nairobi Cbd,728976.8,Active,2023-12-08
+605,100,Savings, Kisumu,833496.97,Active,2024-06-25
+606,220,Savings,Mombasa,274289.6,Active,2023-09-04
+607,211,,,997891.94,,2020-08-18
+608,285,Fixed Deposit,Mombasa,398262.69,,2022-07-23
+609,122,Savings,Westlands,810364.44,Active,2022-08-21
+610,55,,,735632.06,Dormant,2022-02-21
+611,361,Fixed Deposit,Westlands,256011.68,Active,2020-12-22
+612,456,Fixed Deposit,Nairobi Cbd,82322.71,Active,2021-10-22
+613,221,Fixed Deposit,,466374.08,Active,2021-02-15
+614,298,Current,,181230.51,Dormant,2019-08-07
+615,123,Savings,,256578.37,Dormant,2022-10-11
+616,168,Savings, Kisumu,856847.16,Dormant,2020-06-29
+617,257,Current,Nairobi Cbd,217261.66,Active,2022-09-19
+618,65,Fixed Deposit,,622760.63,,2025-12-13
+619,218,Savings, Kisumu,913316.19,Active,2023-12-21
+620,62,Fixed Deposit,Westlands,650845.43,,2026-03-27
+621,543,Savings,Mombasa,156300.18,Active,2025-07-22
+622,326,Fixed Deposit,Westlands,914508.1,,2023-03-16
+623,481,Fixed Deposit,Mombasa,561035.6,Active,2025-09-24
+624,510,,Mombasa,157938.76,Active,2023-01-18
+625,377,Fixed Deposit,Nairobi Cbd,981562.74,Dormant,2025-11-16
+626,511,,Mombasa,966649.79,,2024-11-25
+627,183,Current,Nairobi Cbd,314427.98,,2022-06-09
+628,127,Current, Kisumu,627627.71,Active,2023-03-06
+629,493,Savings,,957924.63,Dormant,2019-09-15
+630,369,Savings,,186372.67,Active,2026-03-02
+631,251,,Nairobi Cbd,417595.79,Dormant,2022-07-22
+632,73,Savings,,505000.94,Active,2019-05-20
+633,243,Savings,Mombasa,926304.5,Dormant,2025-04-09
+634,2,Current,Nairobi Cbd,974794.31,Active,2022-11-27
+635,288,Current,,691599.5,,2025-09-18
+636,359,,,823464.23,Active,2022-01-07
+637,208,Savings,Westlands,97164.33,Active,2025-03-01
+638,274,,,956176.78,,2026-03-05
+639,415,Savings,Nairobi Cbd,594544.13,,2024-09-21
+640,114,Current,,143661.31,Active,2021-10-14
+641,23,Savings,Nairobi Cbd,993549.17,,2023-11-03
+642,165,Current,Mombasa,549020.68,Active,2025-01-01
+643,379,Current,,137371.92,Dormant,2025-06-08
+644,156,Savings,Nairobi Cbd,586475.66,Active,2025-02-22
+645,164,Current,,564944.33,Active,2019-07-14
+646,509,Fixed Deposit, Kisumu,541305.58,Active,2022-12-07
+647,60,Savings, Kisumu,136178.69,Active,2019-06-30
+648,248,Current,Westlands,772467.83,,2025-07-26
+649,397,Fixed Deposit,Mombasa,473750.78,Active,2025-12-11
+650,228,Savings, Kisumu,987731.88,Dormant,2026-05-02
+651,39,,Westlands,194205.97,Active,2025-02-13
+652,85,Current,Nairobi Cbd,335511.79,Active,2019-11-24
+653,434,Current,Nairobi Cbd,509726.41,,2020-09-20
+654,251,Savings,Westlands,301870.94,Active,2022-07-24
+655,109,, Kisumu,928014.97,Active,2024-05-19
+656,510,Savings,Westlands,817835.89,Active,2022-08-15
+657,292,,Nairobi Cbd,332021.29,Active,2023-01-13
+658,534,Savings,,401451.24,Dormant,2020-12-01
+659,215,Fixed Deposit,Mombasa,659534.64,Active,2024-01-18
+660,246,Fixed Deposit,Nairobi Cbd,700136.52,,2020-10-13
+661,104,Savings, Kisumu,83249.42,Active,2023-01-30
+662,374,Current,Westlands,262545.63,Active,2024-06-19
+663,228,Savings, Kisumu,413660.74,,2023-02-20
+664,71,Savings,Nairobi Cbd,65808.65,Dormant,2024-10-30
+665,270,Savings, Kisumu,499812.16,,2019-12-24
+666,260,Savings,Nairobi Cbd,668173.74,,2025-10-15
+667,459,Current,Nairobi Cbd,933560.25,,2023-04-24
+668,130,Savings,Nairobi Cbd,481094.47,Dormant,2025-05-20
+669,26,Savings,,984930.5,Active,2023-02-01
+670,77,Savings,Mombasa,236224.61,Dormant,2021-05-03
+671,275,Current,Westlands,693951.82,Active,2020-12-06
+672,417,Current,Westlands,978049.43,,2025-03-06
+673,184,Savings,Westlands,86922.53,,2025-08-12
+674,241,Savings,Mombasa,715427.63,Active,2026-03-26
+675,390,Savings,Westlands,-1359.33,Active,2026-03-27
+676,363,Savings,Mombasa,996334.2,Active,2024-03-15
+677,453,,,192521.09,Dormant,2024-08-03
+678,495,Current,Westlands,370568.84,Dormant,2023-06-26
+679,285,,Westlands,501409.32,,2019-06-20
+680,441,,Westlands,38826.13,Active,2021-11-22
+681,283,Savings, Kisumu,779933.72,,2026-01-27
+682,255,,,372051.03,Active,2022-09-08
+683,301,Fixed Deposit,Nairobi Cbd,817652.9,,2025-06-18
+684,329,Savings, Kisumu,861454.89,Active,2026-03-19
+685,466,Current,Nairobi Cbd,753486.3,Dormant,2024-04-12
+686,240,Fixed Deposit,Mombasa,633412.39,Active,2025-04-21
+687,280,,Nairobi Cbd,338474.12,,2025-10-24
+688,34,Fixed Deposit,,522397.9,Active,2019-10-17
+689,235,Current,Mombasa,469591.31,Dormant,2025-07-28
+690,500,Savings,Mombasa,193022.79,,2026-01-31
+691,45,Savings,Mombasa,848084.64,,2020-04-24
+692,296,Fixed Deposit,Westlands,310616.78,Dormant,2021-06-02
+693,162,Current,Mombasa,55969.86,Dormant,2023-10-09
+694,340,Savings,Westlands,890183.0,,2022-10-29
+695,435,Savings,Westlands,771599.11,Active,2023-06-06
+696,522,Savings,Nairobi Cbd,902303.3,,2025-05-30
+697,523,Fixed Deposit,,988316.2,Active,2023-02-17
+698,402,Fixed Deposit,Westlands,376179.24,Active,2024-07-15
+699,381,Savings,Mombasa,329618.59,Active,2020-03-24
+700,193,Savings,Nairobi Cbd,577305.9,Dormant,2024-02-07
