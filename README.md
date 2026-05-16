@@ -9,7 +9,7 @@ The project simulates a real-world banking environment by building ETL pipelines
 ## Tech Stack
 
 * Python (Pandas, NumPy, SQLAlchemy)
-* PostgreSQL & SQL
+* PostgreSQL
 * Power BI
 * Jupyter Notebook
 * pgAdmin
