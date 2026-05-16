@@ -45,7 +45,6 @@ banking-data-engineering-project/
 ├── sql/
 ├── dashboards/
 ├── powerbi/
-├── presentation/
 ├── README.md
 └── requirements.txt
 ```
