@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates an end-to-end banking data engineering and analytics workflow integrating Python, PostgreSQL/SQL, and Power BI to transform raw banking data into actionable business insights.
+This project demonstrates an end-to-end banking data engineering and analytics workflow integrating Python, PostgreSQL and Power BI to transform raw banking data into actionable business insights.
 
 The project simulates a real-world banking environment by building ETL pipelines, designing a warehouse schema, performing SQL analytics, and developing interactive dashboards for customer, transaction, and loan analysis.
 
